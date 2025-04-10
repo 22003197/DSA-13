@@ -1,4 +1,4 @@
-# Data-Structures-using-Python-13-Module
+# Data-Structures-using-Python-13-Module-1
 
 
 ##AIM:
@@ -6,7 +6,7 @@
 To convert an infix expression into its equivalent postfix expression by using a stack. 
 
 
-##CODE:
+##PROGRAM:
 
 ```
 Operators = set(['+', '-', '*', '/', '(', ')', '^'])  
