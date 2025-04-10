@@ -1,12 +1,12 @@
 # Data-Structures-using-Python-13-Module-1
 
 
-##AIM:
+## AIM:
 
 To convert an infix expression into its equivalent postfix expression by using a stack. 
 
 
-##PROGRAM:
+## PROGRAM:
 
 ```
 Operators = set(['+', '-', '*', '/', '(', ')', '^'])  
@@ -41,11 +41,11 @@ print("Postfix notation: ",infixToPostfix(expression))
 ```
 
 
-##OUTPUT:
+## OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/0fdf0065-f275-48b7-ace2-af211b590937)
 
 
-##RESULT:
+## RESULT:
 
 Thus conversion of infix expression into its equivalent postfix expression by using a stack is proved successfully.
