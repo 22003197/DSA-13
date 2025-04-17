@@ -7,11 +7,11 @@ To convert an infix expression into its equivalent postfix expression by using a
 
 ## ALGORITHM:
 
-Step 1: Start the program.
+Step 1 : Start the program.
 
-Step 2: Initialize an empty stack to hold operators and an empty string for the output.
+Step 2 : Initialize an empty stack to hold operators and an empty string for the output.
 
-Step 3: For each character in the infix expression:
+Step 3 : For each character in the infix expression:
 
 a) If the character is an operand , add it directly to the output.
 
@@ -21,9 +21,11 @@ c) If the character is a right parenthesis ), pop from the stack to the output u
 
 d) If the character is an operator, pop operators from the stack to the output while they have greater or equal precedence than the current operator.
            
-Step 4: After reading all characters, pop any remaining operators from the stack to the output.
-Step 5: Return the output string as the postfix expression.
-Step 6: Stop the program.
+Step 4 : After reading all characters, pop any remaining operators from the stack to the output.
+
+Step 5 : Return the output string as the postfix expression.
+
+Step 6 : Stop the program.
 
 ## PROGRAM:
 
